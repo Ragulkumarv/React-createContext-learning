@@ -1,6 +1,6 @@
-Hosted in Netlify 
+Hosted in Vercel 
 
-https://react-usecontext-themeswitcher.netlify.app
+https://react-use-context-theme-switcher.vercel.app
 
 # Getting Started with Create React App
 
